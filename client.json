@@ -1,0 +1,12 @@
+{
+    "name": "peter",
+    "lastName": "Parker",
+    "interest": ["runnning", "climbing", "being spiderman"],
+    "last articles": {
+
+        "food": "123123",
+        "clothes":"456456"
+
+
+    }
+}
